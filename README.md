@@ -2,7 +2,7 @@
 
 I do data, in and out.
 
-From web scraping and APIs to web apps and insights, covering the whole journey — bridging the worlds of Business and IT to deliver full-stack data solutions.
+From web scraping and APIs to web apps and insights, covering the whole journey - bridging the worlds of Business and IT to deliver full-stack data solutions 🚀.
 
 Website:
 

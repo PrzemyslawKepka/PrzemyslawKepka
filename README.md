@@ -27,6 +27,8 @@ Some of the open source & side projects I've done:
 - 💸 **[electronics-web-scraping](https://github.com/PrzemyslawKepka/electronics-web-scraping)** - Price tracker that captures real deals and exposes fake discounts
 - 🎮 **[wbc-game-assistant](https://github.com/PrzemyslawKepka/wbc-game-assistant)** - Interactive helper app for Warlords Battlecry computer game
 
+More projects, including corporate work, are available on my website.
+
 ---
 
 ## ⚙️ Tech Stack

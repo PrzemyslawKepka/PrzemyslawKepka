@@ -12,9 +12,19 @@ Website:
 
 ## 🛠️ Projects
 
-- 🏠 **[cm-rentals](https://github.com/PrzemyslawKepka/cm-rentals-flask)** - Real estate data platform
-- 🖼️ **[supabase-image-linker](https://github.com/PrzemyslawKepka/supabase-image-linker-ui)** - CLI for linking images to database records
+Currently focusing on:
+*Tekyous* - to be announced soon 😎 
+
+Some of the open source & side projects I've did:
+
+- 🏠 **[cm-rentals](https://github.com/PrzemyslawKepka/cm-rentals-flask)** - Property aggregator app
+- 🖼️ **[supabase-image-linker](https://github.com/PrzemyslawKepka/supabase-img-linker-ui)** - UI app for linking images to database records in a Supabase project
 - 🌐 **[pk-data-sol](https://github.com/PrzemyslawKepka/pk-data-sol)** - Portfolio website
+- 🌡️ **[temperature-monitoring](https://github.com/PrzemyslawKepka/temperature-monitoring)** - IoT temperature monitoring with Raspberry Pi, InfluxDB & Grafana
+- 🎨 **[image-editor](https://github.com/PrzemyslawKepka/image-editor)** - Browser-based 'meme generator' in Streamlit
+- 📊 **[facebook-archive-analysis](https://github.com/PrzemyslawKepka/facebook-archive-analysis)** - ETL pipeline for analyzing personal Facebook data archive
+- 💸 **[electronics-web-scraping](https://github.com/PrzemyslawKepka/electronics-web-scraping)** - Price tracker that captures real deals and exposes fake discounts
+- 🎮 **[wbc-game-assistant](https://github.com/PrzemyslawKepka/wbc-game-assistant)** - Interactive helper app for Warlords Battlecry computer game
 
 ---
 
@@ -28,7 +38,6 @@ Website:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)

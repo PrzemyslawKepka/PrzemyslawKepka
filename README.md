@@ -2,7 +2,7 @@
 
 I do data, in and out.
 
-From web scraping and APIs to web apps and insights, covering the whole journey. And at the same time I bridge the worlds of Business and IT, which results in delivering full-stack data solutions.
+From web scraping and APIs to web apps and insights, covering the whole journey — bridging the worlds of Business and IT to deliver full-stack data solutions.
 
 Website:
 
@@ -13,9 +13,10 @@ Website:
 ## 🛠️ Projects
 
 Currently focusing on:
-*Tekyous* - to be announced soon 😎 
 
-Some of the open source & side projects I've did:
+*Tekyous* - to be announced soon 😎
+
+Some of the open source & side projects I've done:
 
 - 🏠 **[cm-rentals](https://github.com/PrzemyslawKepka/cm-rentals-flask)** - Property aggregator app
 - 🖼️ **[supabase-image-linker](https://github.com/PrzemyslawKepka/supabase-img-linker-ui)** - UI app for linking images to database records in a Supabase project

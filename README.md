@@ -18,6 +18,8 @@ Currently focusing on:
 
 Interactive tech stack builder & tools discovery platform
 
+<sub>──────────────────────────────────────────────────────────</sub>
+
 Some of the open source & side projects I've done:
 
 - 🏠 **[cm-rentals](https://github.com/PrzemyslawKepka/cm-rentals-flask)** - Property aggregator app
